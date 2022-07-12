@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.0.0",
+    "langs": "^2.0.0"
+  },
+  "name": "languageguesser",
+  "version": "1.0.0",
+  "description": "language guesser from user input.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[D\u001b[B\u001b[C"
+  },
+  "author": "Jimmy Vu",
+  "license": "ISC"
+}
